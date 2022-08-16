@@ -1,3 +1,19 @@
-### ```Hello! My name is Dxrie and I'm an intermediate software developer. I like to use python and java```
+### 👋 | Hello There !
 
-You can contact me through my discord, dxrie#6663
+### 🔧 | I'm currently learning
+
+⚫ | C++
+⚫ | C
+⚫ | TailwindCSS
+
+### 🍂 | I'm currently working on
+
+⚫ | Minecraft Plugin
+⚫ | Minecraft Client
+
+### 🤔 | Language Mastered
+
+⚫ | C++
+⚫ | Java
+⚫ | Python
+⚫ | Kotlin
