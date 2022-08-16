@@ -3,8 +3,11 @@
 ### 🔧 | I'm currently learning
 
 ⚫ | C++
+
 ⚫ | C
+
 ⚫ | TailwindCSS
+
 
 ### 🍂 | I'm currently working on
 
