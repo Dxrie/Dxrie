@@ -1,4 +1,4 @@
-### Yo
+### Hello! My name is Dxrie and I'm an intermediate software developer. I like to use python and java
 
 <!--
 **Dxrie/Dxrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
