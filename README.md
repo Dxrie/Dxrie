@@ -15,8 +15,6 @@
 
 ⚫ | Minecraft Plugin
 
-⚫ | Minecraft Client
-
 
 ### 🤔 | Language Mastered
 
