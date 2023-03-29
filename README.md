@@ -8,10 +8,12 @@
 
 ⚫ | TailwindCSS
 
+⚫ | LUA
+
 
 ### 🍂 | I'm currently working on
 
-⚫ | Minecraft Plugin
+⚫ | Roblox FPS Game
 
 
 ### 🤔 | Language Mastered
@@ -23,3 +25,5 @@
 ⚫ | Python
 
 ⚫ | Kotlin
+
+⚫ | LUA
