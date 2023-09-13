@@ -4,11 +4,7 @@
 
 ### 🔧 | I'm currently learning
 
-⚫ | Dart
-
-⚫ | TailwindCSS
-
-⚫ | LUA
+⚫ | React.JS
 
 
 ### 🍂 | I'm currently working on
