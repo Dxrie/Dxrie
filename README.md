@@ -4,12 +4,7 @@
 
 ### 🔧 | I'm currently learning
 
-⚫ | React.JS
-
-
-### 🍂 | I'm currently working on
-
-⚫ | Roblox FPS Game
+⚫ | Data Structures
 
 
 ### 🤔 | Language Mastered
